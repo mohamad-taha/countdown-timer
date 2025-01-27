@@ -9,11 +9,10 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-dynamic-and-user-friendly-landing-page-UHg_BsGid_)
+- Live Site URL: [Add live site URL here](https://mohamad-taha.github.io/countdown-timer/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [mohamad taha kasir ](https://mohamad-taha.github.io/devtaha/)
+- Frontend Mentor - [@mohamad-taha](https://www.frontendmentor.io/profile/mohamad-taha)
