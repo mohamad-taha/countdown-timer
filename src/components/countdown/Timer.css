@@ -35,7 +35,9 @@
     padding: 20px;
     border-radius: 10px;
     text-align: center;
-    width: 100px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
   }
 
   .time-value {
