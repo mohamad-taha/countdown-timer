@@ -11,15 +11,3 @@ body {
   background-color: #201e29;
   background-image: url(/public/assets/images/bg-stars.svg);
 }
-
-a svg path {
-  transition: 200ms;
-  -webkit-transition: 200ms;
-  -moz-transition: 200ms;
-  -ms-transition: 200ms;
-  -o-transition: 200ms;
-}
-
-a svg:hover path {
-  fill: #ff4d6d;
-}

@@ -1,0 +1,20 @@
+footer {
+  background-image: url(./public/assets/images/pattern-hills.svg);
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+
+  a svg path {
+    transition: 200ms;
+    -webkit-transition: 200ms;
+    -moz-transition: 200ms;
+    -ms-transition: 200ms;
+    -o-transition: 200ms;
+  }
+
+  a svg:hover path {
+    fill: #ff4d6d;
+  }
+}

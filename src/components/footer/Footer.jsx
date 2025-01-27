@@ -1,17 +1,9 @@
 import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
-    <footer
-      style={{
-        backgroundImage: "url(./public/assets/images/pattern-hills.svg)",
-        height: "180px",
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "center",
-        gap: "30px",
-      }}
-    >
+    <footer>
       <a href="#">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
           <path
