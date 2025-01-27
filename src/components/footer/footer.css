@@ -1,5 +1,5 @@
 footer {
-  background-image: url(./public/assets/images/pattern-hills.svg);
+  background-image: url(/public/assets/images/pattern-hills.svg);
   height: 180px;
   display: flex;
   align-items: center;
