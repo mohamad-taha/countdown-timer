@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer
       style={{
-        backgroundImage: "url(/public/assets/images/pattern-hills.svg)",
+        backgroundImage: "url(./public/assets/images/pattern-hills.svg)",
         height: "180px",
         display: "flex",
         alignItems: "center",
