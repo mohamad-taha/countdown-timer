@@ -1,0 +1,60 @@
+.timer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 180px);
+  gap: 40px;
+  text-align: center;
+  padding: 50px;
+
+  .header {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+  }
+
+  .time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .time-wrapper {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .time-box {
+    background-color: #1c1c3a;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 100px;
+  }
+
+  .time-value {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ff4d6d;
+  }
+
+  .time-label {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    color: #ccc;
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+}
+
+@media (max-width: 639px) {
+  .timer {
+    height: max-content;
+  }
+}
