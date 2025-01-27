@@ -3,7 +3,7 @@ import "./Timer.css";
 
 const Timer = () => {
   const calculateTimeLeft = () => {
-    const targetDate = new Date("2025-02-05T00:00:00");
+    const targetDate = new Date("2026-02-05T00:00:00");
     const currentTime = new Date();
     const diff = targetDate - currentTime;
 
